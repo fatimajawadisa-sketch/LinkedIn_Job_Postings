@@ -71,5 +71,3 @@ Check LinkedIn on Thursday and Friday: About 67% of jobs are posted on these two
 Analyze job descriptions: Extract required skills from the descripting text to show beginners what to learn for each title. 
 
 
- for only 30 days.
-Check LinkedIn on Thursday and Friday: About 67% of jobs are posted on these two days.
