@@ -55,7 +55,8 @@ We calculate the median annual salary for each experience level (entry-level, mi
 #### importance: ####
 A job seeker provides a realistic salary range—based on their level of experience—to negotiate from, rather than relying on guesswork.
 
-
+## Tools ##
+python,Jupyter,GitHub,Matplotlib.
 
 ## Requirements ##
 import pandas as pd
