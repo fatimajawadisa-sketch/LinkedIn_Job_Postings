@@ -62,9 +62,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 ## Recommendation ##
+
 Target beginner-friendly jobs:Titles like Retail Sales Associate, Receptionist,  have many entry-level openings.
 Apply early: Most job postings stay active for only 30 days.
 Check LinkedIn on Thursday and Friday: About 67% of jobs are posted on these two days.
-Target beginner-friendly jobs:Titles like Retail Sales Associate, Receptionist,  have many entry-level openings.
-Apply early: Most job postings stay active for only 30 days.
+
+## Next Step ##
+Analyze job descriptions: Extract required skills from the descripting text to show beginners what to learn for each title. 
+
+
+ for only 30 days.
 Check LinkedIn on Thursday and Friday: About 67% of jobs are posted on these two days.
